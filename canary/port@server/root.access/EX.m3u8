@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="Eventos | Amazon Prime Video", NBA MEX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"45e9617575c65002db35a7917bfd18a1":"7ab7fd3e2d978f626ee9bbed15854d50"}
-https://a82aivottevtad-a.akamaihd.net/IAD/1b2306f844a44846a104956b8c2e51e5/v1/dash/586794481471/nba_amzn1_dv_live_csid_e9cda353-7ad5-4c6f-bdf8-1d75d127a7fd_us-east-1_iad_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/xkywzwph1q/out/v1/6ded9c9eb1c64590818d25c401ca4cf5/da06166e-03e8-4026-a51c-64a5dc2b1911-cenc.mpd
