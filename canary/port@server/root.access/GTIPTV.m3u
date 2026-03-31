@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 group-title="GTIPTV", TELEMUNDO 51 MIAMI HD
+#EXTVLCOPT:http-referrer=https://ui4.gt-app.com/
+#EXTVLCOPT:http-origin=https://ui4.gt-app.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-N975F Build/PI)
+https://mx1.gt-app.com/protegiidos/7.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="GTIPTV", TELEMUNDO 51 MIAMI HD
+#EXTVLCOPT:http-referrer=https://mx1.gt-app.com/
+#EXTVLCOPT:http-origin=https://mx1.gt-app.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-N975F Build/PI)
+https://mx1.gt-app.com/protegiidos/7.m3u8
