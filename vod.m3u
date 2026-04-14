@@ -1,5 +1,0 @@
-#EXTINF:-1 group-title="DISH", VOD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a86a92caf0e54beb868ac55dd4e05ac8":"b4b7c74c55719d96adff915a1a81c0aa"}
-https://8-39-227-147-ip-cmd.dishboxes.com:5234/austin/54186/dash/dash.mpd
