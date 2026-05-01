@@ -1,5 +1,0 @@
-#EXTINF:-1 group-title="VTVcab ON", QPVN
-#EXTVLCOPT:http-origin=https://on.vtvcab.vn
-#EXTVLCOPT:http-referrer=https://on.vtvcab.vn/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://live-on-cdn.sigmaott.com/manifest/qpvn/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
