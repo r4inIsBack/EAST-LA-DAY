@@ -1,0 +1,5 @@
+#EXTINF:-1 group-title="VTVcab ON", VTV 1
+#EXTVLCOPT:http-origin=https://on.vtvcab.vn
+#EXTVLCOPT:http-referrer=https://on.vtvcab.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://live-on-cdn.sigmaott.com/manifest/vtv1/master.m3u8
