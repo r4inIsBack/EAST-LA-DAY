@@ -3,14 +3,14 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11155778dc9b7dde1e396a9110f09208":"c030cf978cbdc4a4c84fc68ab467942b"}
-http://85.235.153.48:9999/https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin2/Content/CMAF_CTR_S1/Live/channel(comedycentral)/master.mpd
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin2/Content/CMAF_CTR_S1/Live/channel(comedycentral)/master.mpd
 #EXTINF:-1 group-title="Now TV Italy", DeA Kids
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11156fe43b82f771a7071dabf7c44115":"b2f5efc2fbcfc1fa06736a94a0187717"}
-http://85.235.153.48:9999/https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin2/Content/CMAF_CTR_S1/Live/channel(deakids)/master.mpd
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin2/Content/CMAF_CTR_S1/Live/channel(deakids)/master.mpd
 #EXTINF:-1 group-title="Now TV Italy", DeA Kids +2hr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11156fe43b82f771a7071dabf7c44115":"b2f5efc2fbcfc1fa06736a94a0187717"}
-http://85.235.153.48:9999/https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin2/Content/CMAF_CTR_S1/Live/channel(deakids)/master_2hr-aac.mpd
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin2/Content/CMAF_CTR_S1/Live/channel(deakids)/master_2hr-aac.mpd
