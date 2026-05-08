@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 group-title="Orange RO", A3 CNN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"025a5367a1664baea0fb3b6e4e211cbb":4d22447552dbde2acf6baec83db59e87","4a9e5367a1664baea0fb3b6e4e211cbb":"1ac19553ad22a3babdfa47e700d87bf0","43af97b0f0664baea0fb3b6e4e211cbb":"dc38399837d9dd43f76b675746ce4391"}
+https://93.115.113.124:8080/https://tv-he.orange.ro/sdash/LIVE$antena3hd/2.mpd/Manifest?start=LIVE&end=END&device=DASH_CPIX_LLC_HIGH&token=1.MTc3ODM1MjQ0MA.DJq-Z8t77JpqNhb1QV_EHz7sRnIslN4_KIBxU5SSekw
