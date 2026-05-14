@@ -1,0 +1,5 @@
+#EXTINF:-1 group-title="InterGo Venezuela", Vive TV 3
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/vive.php
