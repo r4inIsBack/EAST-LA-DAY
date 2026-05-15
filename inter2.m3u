@@ -1,9 +1,69 @@
 #EXTM3U
+#EXTINF:-1 group-title="InterGo Venezuela", A La Cocina HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/alacocina.php
+#EXTINF:-1 group-title="InterGo Venezuela", Antena Motor HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/antenamoter.php
+#EXTINF:-1 group-title="InterGo Venezuela", Curiosity HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/curiosity.php
+#EXTINF:-1 group-title="InterGo Venezuela", DHE HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/dhe.php
+#EXTINF:-1 group-title="InterGo Venezuela", Duck TV HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/ducktv.php
+#EXTINF:-1 group-title="InterGo Venezuela", Esports Max 2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/esportsmax2.php
 #EXTINF:-1 group-title="InterGo Venezuela", Extreme HD
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
 https://r4instreams.alwaysdata.net/intergo/extreme.php
+#EXTINF:-1 group-title="InterGo Venezuela", Kidoo HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/kidoo.php
+#EXTINF:-1 group-title="InterGo Venezuela", MovieFe HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/moviefe.php
+#EXTINF:-1 group-title="InterGo Venezuela", Oxigeno TV HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/oxigenotv.php
+#EXTINF:-1 group-title="InterGo Venezuela", Panavision HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/panavision.php
+#EXTINF:-1 group-title="InterGo Venezuela", Plous TV HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/ploustv.php
+#EXTINF:-1 group-title="InterGo Venezuela", Titan Channel HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
+https://r4instreams.alwaysdata.net/intergo/titanchannel.php
 #EXTINF:-1 group-title="InterGo Venezuela", Vive TV
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
