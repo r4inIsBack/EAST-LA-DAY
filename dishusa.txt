@@ -1,0 +1,539 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a96c89db22e4d9297866b8a7c1cefd0:3b08c605ce0b3b8f2e44e94a3c75aa7a
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://p-cdn4-806-cg14-linear-cbd46b77.movetv.com/clipslist/1472/20260515T175600Z/20260515T190100Z/spanning_ads-real-pto.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f52e3308e034b5eb27cfa4b413a6df4:3e7eaaf52120ec4e8eeff232e1e83d84
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://p-cdn4-806-cg14-linear-cbd46b77.movetv.com/clipslist/1472/20260515T175600Z/20260515T190100Z/spanning_ads-real-pto.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36e1b0c815234494b41abd776ab89e46:91fd43db546970ed8622cace56564209
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=402f896bfa614f0b827c067123b1d0a7:eee75d46917fd260bd973018806b6cb9
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://p-cdn4-806-cg14-linear-cbd46b77.movetv.com/clipslist/1472/20260515T175600Z/20260515T190100Z/spanning_ads-real-pto.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7d0eef39e694401942568e9ec9178aa:86c7a35190fa654884afe5fad903a844
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://p-cdn4-806-cg14-linear-cbd46b77.movetv.com/clipslist/1472/20260515T175600Z/20260515T190100Z/spanning_ads-real-pto.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc521713891d4978973349efd5554eea:40f830db2f079768a878e26481c3f3b3
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27ce8481612748059ec5877ecce392cf:323fa360be5f57e5f2a6a0747c5ce254
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdb15200e1674ef7af1ca4b2309457e3:6996545e9fe637fdc65fac7f11b4169d
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://p-cdn4-806-cg14-linear-cbd46b77.movetv.com/clipslist/1472/20260515T175600Z/20260515T190100Z/spanning_ads-real-pto.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3877e57bb5904fae84d88749c7fff661:d98bd0c189d990c36ef64b49e2cf97f9
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ce9d69cc810461dadd56682f0a3d56b:8a5b354ccd3d7f1b182f3de708406c89
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b66b2c45f1744428b0287a4f8665d260:6b8cc8b092d7c585c38493ab32716fa5
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0b327165e3f4623a9a425216294e20f:4b80faebf381a460674756868db4d797
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c69eeed42ae4b3da4064280f883ed2f:f987f78691ce1143cc3bf3b3f755b147
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07f84f3abbae4b48986d27634a21395b:289b53d9d1d2cb7d30676d868e658168
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://p-cdn4-806-cg14-linear-cbd46b77.movetv.com/clipslist/1472/20260515T175600Z/20260515T190100Z/spanning_ads-real-pto.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cd257ff04e94c41977a9ae23d1651ab:c225c3da0a573c0982d3a752060c5824
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=104c9845004c470ca7f29990178702a5:9cb06b19bf814c79d747ba1412db40ce
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://p-cdn4-806-cg14-linear-cbd46b77.movetv.com/clipslist/1472/20260515T175600Z/20260515T190100Z/spanning_ads-real-pto.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3890db33b8584a93b9bc66280eb19b4f:f3d97f81b944963dd697d219d71aae35
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5028ee32c2d345909fa7627e4fd371c1:7aa4b8a6df92c77dc5d7749a98053a53
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e0dd8660efe466bac79f868ac2895c5:9c2bbd25784726455891245f89a5619a
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a990c92e3ef5475683d9abfb31d588e3:d402d5699651a9f6f5945f84becf0f26
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2cf23fff52b4577a993a85cae7ada91:2588abc466b78f7b38d96d864cbb4987
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6858a983b5346b08897527db6369272:cb2597e66aba0382b2e8238f414e1503
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0107f0bbb22a4d94bd4d45dbaa1fdfad:bd1c76efe4d248f890a89386850e4591
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03330b86eeea4480b1476608daf231c3:141694aa680ac1a06576d00509cdbd43
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12dc65980a844325b167960b79ce8c21:8fd9e44a7ef98c8a803e3d3e2bf534ca
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19bab18e39214f8985ebcf158bc316f9:97965b2e120e132aef75e00b378e504d
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cbd1108191b4cc5bac3f104f30ee57c:d6b328f11e0db45c0841f08ad6e7d888
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c564d5e6a5d4c62b1091d7c5d7776ae:aec6cea9f41d39d88be5f409989c42e2
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33360793aa424ef98b2339e42e485e6e:793965977c2f75cd65585b2bf161a6fd
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47832a2722b8402781339b102e677cdf:e672b8470f72aa2629e5aab7700f1eed
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6653eb91e6124e8184ed66c78eb9a2e3:ad1038e99474ad2d30db953c9d55d2cd
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=796dd308187b4569b4c22b0d87d21db4:65008b291aec239f2befada762aeb90c
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83e3158c4c954d7cb676519ae7427356:4d00b936ef2256aa007f5583b3eb2fc4
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93a9dd9f1c494e03950345d2fb67f5a8:bb5cfd629ea3e66e06db3854a74dfeb7
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1d6627346d24c6db0a595a3eccc98fe:770b8726373a29f9bf5d013ff2a8f68a
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a21669700b0349aaa0d22f448b943031:fba184e4c63df1d22f3c42e73498f3a2
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd3a3b6802224b4b86bafe9f0245c9d2:43d29deb8c26e901f8266b46d3968fd1
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea0c3d2ca88641a594e82b084fae9f8e:f12b3a6db8ace7ff699bcc5d2828f148
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edda12e9df3e490fb4e64cb142d837ed:e2f20d819f3b2fda4c0fe916be9ba1df
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f02eea19c99949529c0c80562c20ebbd:d540625ef9d01219103d72febfccc308
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f11c7e26008049faa70b96eda10be6d7:b04466b0a39d4c0e00c8afb9d64ba1d9
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9ae80f638b4b3ca58c3dea603a0648:bd9bfd36277676264b10ebb4d7e9ed5b
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70757af1b7c242c58b40d529288dc11d:eaaa0c1e43ef170d4a289b237b372916
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7d84796ae1742fc87b3cb24976dcc30:fa5fa7c874f4baff556f5aeb9eb5b9ff
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efd18e092f5b4fe9bbc442849715f3f9:98c2b5f1cc6808a4ec5ab71a1d38fac8
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0776b1cd85a94dc4a686a154b53d369c:ae69b26a0e9cba01a52a6eac357b4015
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=459009d90b4d4cfd89d22c3c3f8c7f93:435845cb3072ab570fa8cd188805bc75
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59e667c7301b4887aac1e6bb6f52928e:7687f3a5be76417598c40ab70c7a4f6e
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1cf1ac554394b3e96dda94f17fa3b62:b177723b30954dd8e03ea18f5e2ec222
+#EXTGRP:DTV USA
+#EXTVLCOPT:http-origin=https://www.dishanywhere.com
+#EXTVLCOPT:http-referrer=https://www.dishanywhere.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="DTV USA",DISH Anywhere
+https://71-179-244-207-ip-cmd.dishboxes.com:5122/austin/45765/dash/dash.mpd
