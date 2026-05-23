@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="DTV USA", A&E EAST
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4812b022c4014a7b81d11c4493bb4cb2":"6b36fbd4af78337f96a4edce2c869543"}
-http://p-cdn1-808-cg14-linear-cbd46b77.movetv.com/clipslist/153/20260521T033400Z/20260521T040300Z/spanning_ads.mpd
