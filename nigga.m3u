@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 TELETICA 7
+#EXTINF:-1, TELETICA 7
 #EXTVLCOPT:http-origin=https://bradmax.com
 #EXTVLCOPT:http-referrer=https://bradmax.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
-#EXTINF:-1 FOX COSTA RICA
+#EXTINF:-1, FOX COSTA RICA
 #EXTVLCOPT:http-origin=https://bradmax.com
 #EXTVLCOPT:http-referrer=https://bradmax.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01.teletica.com/FoxSport/Stream/playlist_dvr.m3u8
-#EXTINF:-1 FOX+ COSTA RICA
+#EXTINF:-1, FOX+ COSTA RICA
 #EXTVLCOPT:http-origin=https://bradmax.com
 #EXTVLCOPT:http-referrer=https://bradmax.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
