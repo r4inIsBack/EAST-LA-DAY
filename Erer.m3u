@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="https://media.tvup.cloud/canales/color_lg_6235d5fd4de2ad002284a54a.png",ETC TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"efe46cffb9b65436ab510d335cdfbf3f":"5fb9cebeb05495faaf3cd7e2b7fc89a8","358aada002d256bbb301e9acf00b99ef":"a3f3f7ada22a202ae5dd213e4870ae7f","0710f095054457aca3aa665eed2d6a95":"a7a6ad68c41ce4596393d6f24b872338"}
+https://cdn-live.mundogo.cl/etctv/etctv.mpd
