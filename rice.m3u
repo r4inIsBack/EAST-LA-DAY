@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="CableColor", CBS MIAMI
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"877f2d0774daeb6a58163633c0453d23":"6d887ab99aaf90b81b9c6114ceb6020a","f14de937f511d9515899a5226b044e36":"695a0a03c0089fb80ebca4b2c6e4cdd1","a24df70a9657857c14f41d7e8fd964f8":"de59534f12db177fcda2ce3efbfcef8f","a33bfb686a9ebfd012d9133199a6e921":"d11fdb302fe89e00e6521719caced6f8","f4f2bdf77e68f0e9acdc5742cf2d6cd8":"5ba5f592a3b96803a883cfa4f280c496"}
-https://ts6-edge.cablecolor.net/s-mini06/channels/live/cbsjw5x4kn05i-27-22/cbs-27-cenc.mpd?420G_TakosUnited_R4IN&DON'T_STEAL_OR_RESELL_YOU_WILL_BE_BLOCKED
