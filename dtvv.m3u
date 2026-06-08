@@ -1,4 +1,4 @@
-#EXTM3u
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://api.cld.dtvce.com/rights/management/mdrm/vgemultidrm/v1/widevine/license
 #KODIPROP:inputstream.adaptive.server_certificate=https://stream.directv.com/att.tv/wv/cert_license_widevine_com.bin
