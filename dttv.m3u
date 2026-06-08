@@ -1,6 +1,0 @@
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://api.cld.dtvce.com/rights/management/mdrm/vgemultidrm/v1/widevine/license
-#KODIPROP:inputstream.adaptive.server_certificate=https://stream.directv.com/att.tv/wv/cert_license_widevine_com.bin
-#EXTINF:-1 group-title="DTV",MTV2 HD
-https://dfwlive-v2-c3p3-os.directv.fastly-edge.com/Content/HLS.cps/Live/channel(MTV2HD-2455.dfw.1080)/index.m3u8
