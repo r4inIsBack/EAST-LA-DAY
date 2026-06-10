@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1, TELENIGGER
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
-https://cara-cdn1.netuno.cdn.moderntv.eu/netuno/stream/TELEVEN_LL/10-20-ll-hls/live.m3u8?_cdn_attrs=account%3Dnetuno%2Cresource%3DTELEVEN_LL_stream_af&_cdn_meta=deviceID%3D106861727%2Cserver%3Dhttp%2CuserID%3D1277510355&_cdn_session=20948238666&_cdn_timestamp=1781165596&drmProvider=cg&drmTypes=fairplay&packager=1&_cdn_token=9ea20266e42326d441ef75017eca7a6141c5e1b5
