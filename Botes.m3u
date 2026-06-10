@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 Prueba
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
 https://stream.srv.netuno.i.mtvreg.com/stream.m3u8?content-id=channel%3ATELEVEN_LL&content-expiration=1781683380&user-id=1277510355&device-id=106861727&device-type=web&signature-ip=76.107.156.227&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast%2Clowlatency%2Cactions_v2%2Ccarousel%2Cexternal_apps&drm-system=fairplay&ott=1&parallel-limit=3&parallel-group=ps%3A1&lang=es&signature-expiration=1781683380&signature-hash=752ef55540d551ef80b0306fa1bb41e3f6bdbba3a6cd9b0848c2177574a51ad7
