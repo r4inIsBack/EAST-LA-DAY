@@ -1,8 +1,0 @@
-#EXTM3U
-#EXTINF:-1, NETUNO CHANNEL
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Spanish",LANGUAGE="es",DEFAULT=YES,AUTOSELECT=YES,URI="https://cara-cdn5.netuno.cdn.moderntv.eu/netuno/stream/NETUNOCHANNEL/20-hls/live-media.m3u8?_cdn_attrs=account%3Dnetuno%2Cresource%3DNETUNOCHANNEL_stream_03&_cdn_session=20948039946&contentId=4d405e36-d478-4a2b-a478-90cd0509c4e6&contentType=&drmProvider=cg&drmTypes=fairplay&packager=1&stream=audio%3A1&trackType=AUDIO&_cdn_token=ae4b6f36ef72bfd7dc8c77626ae3c3d30a522729"
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,AUDIO="audio"
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
-https://cara-cdn5.netuno.cdn.moderntv.eu/netuno/stream/NETUNOCHANNEL/20-hls/live-media.m3u8?_cdn_attrs=account%3Dnetuno%2Cresource%3DNETUNOCHANNEL_stream_03&_cdn_session=20948039946&contentId=4d405e36-d478-4a2b-a478-90cd0509c4e6&contentType=&drmProvider=cg&drmTypes=fairplay&packager=1&stream=video%3A0&trackType=HD&_cdn_token=be2dfadc80143db840bade1429dbf8b97c0f5613
