@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Caracol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ditu.caracoltv.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c1c00924bfc331689b44ae37a80c2c9:ea14ce10c10e975e641ff9caf1bc3f6f
+https://d1hoqfh4p9symg.cloudfront.net/v1/dash/d97743de3620a865848fff7a9de14dda1bf2409d/69690d21fb30af150e58f11c/manifest.mpd?aws.sessionId=530b321e-14ab-4b32-95a5-00bc2d5141e0
+#EXTINF:-1,Gol Caracol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ditu.caracoltv.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=225fbbbf11c03eb5a7c8e29867e05955:f1bc21d9211b2a2b211187ef4929d7d8
+https://d3ctt9k1sotyvs.cloudfront.net/v1/dash/d97743de3620a865848fff7a9de14dda1bf2409d/69690cfcce0dc031830e7c1a/manifest.mpd?aws.sessionId=c022cf54-1425-4593-b04e-112e0288ff47
