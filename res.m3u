@@ -1,0 +1,6 @@
+#EXTINF:-1 ch-number="" tvg-id="" group-title="" tvg-logo="", CRONICA
+#EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; Android TV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4113590c70ac41cc8b8badb7e92c3b47:70190fe918548eb4d0bb2c154efcf1b6
+https://el4live1.boldmss.com/CRONICA/CRONICA_EL4.isml/manifest
