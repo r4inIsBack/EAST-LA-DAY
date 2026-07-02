@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 group-title="VIX" group-logo="https://r4inisback.github.io/tweb/logos/vix.png", Golden Egde | VIX MX
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm3.mp.lura.live/fp?eqp=ZcKHXmryqqe2XKxxl-8f73dKPZ11FuITegWbRBPioD_vRNx3sd72GHWxdae3seXDemRb9eRPJisb4o9xI7PUt47KN3g8RNiPgO4WEFlA5V1BVo4VoNduQum1pqtDIM0dE5entt5730cTkiY3z47MnryXoTkcRq3XqWLg8HNTKzNHHy65sxV2X_DipAsyOqpQQAMC2nyJ-0oi4RKA2Cd-KS8tnBbpzX60ImYb1Uh7aAE5GwG85tNqMWpX30GNAYpS7twUDPM5JpxDalOxu0VV3RQJc2r0R2b9WcS7Cc0l7GMuSMjBYQpZVqdz2q1QDi9e&anvauth=tb%3D0~te%3D1782964817~sgn%3D8b92ccc988d02a165e7656722f2c1afc03d3d07752ff798d33336bdcc0108da8&t=1782954017&guid=6dbd6b90-6204-23c5-33358d202822
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstklx7qmyBq4Bp/master.m3u8?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
+#EXTINF:-1 group-title="VIX" group-logo="https://r4inisback.github.io/tweb/logos/vix.png", Golden Egde | VIX MX
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8c0650f2807e85e570e9745a47775be6":"4cfda7567c83ac871ac54086f21e6e8c"}
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstklx7qmyBq4Bp/master.m3u8?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
