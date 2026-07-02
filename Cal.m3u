@@ -1,6 +1,0 @@
-#EXTINF:-1 tvg-name="Telemundo  Arizona USA HD" tvg-id="34838" tvg-shift="0" tvg-logo="" group-title="Entretenimiento",Telemundo  Arizona USA HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6613.99 Mobile Safari/537.36
-https://live-atv-cdn.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd|Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv
