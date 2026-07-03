@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="InterGO o NetUno", ValeTV
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/bdfn6yfp
-https://bygeremixd.alwaysdata.net/valetv.php
