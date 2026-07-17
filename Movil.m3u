@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BITMEHD" tvg-name="BITME HD" group-title="IZZI",BITME HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7 
+#EXTVLCOPT:http-user-agent=izzigo/10.0.3 (3.2201201526) izzigo (Linux;Android 13) ExoPlayerLib/2.14.2 
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:http-origin=https://www.izzigo.tv/ 
+https://live1-ott.izzigo.tv/14/out/u/dash/BITME-HD/default.mpd
+#EXTINF:-1 tvg-id="BITMEHD" tvg-name="BITME HD" group-title="IZZI",BITME HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7 
+#EXTVLCOPT:http-user-agent=izzigo/10.0.3 (3.2201201526) izzigo (Linux;Android 13) ExoPlayerLib/2.14.2 
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:http-origin=https://www.izzigo.tv/ 
+http://atlas.cdmx.gob.mx:8089/https://live1-ott.izzigo.tv/14/out/u/dash/BITME-HD/default.mpd
