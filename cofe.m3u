@@ -4,6 +4,6 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_key=c85c46f264a3280ef747ea299b915478:b9f292ed75b0e968cb6402b5a64d2c0f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://intergoplus.tv/
+#EXTVLCOPT:http-referrer=https://intergoplus.tv/tv?id=Y4k
 #EXTVLCOPT:http-origin=https://intergoplus.tv
 https://bto-cdn1.intergoplus.tv/live4/DTVS_abr/manifest.mpd
