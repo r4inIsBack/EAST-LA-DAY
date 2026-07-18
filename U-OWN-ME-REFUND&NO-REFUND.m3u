@@ -6,4 +6,4 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://intergoplus.tv/
 #EXTVLCOPT:http-origin=https://intergoplus.tv
-https://ccs-cdn1.intergoplus.tv/live4/DTVS_abr/manifest.mpd
+https://bto-cdn1.intergoplus.tv/live4/DTVS_abr/manifest.mpd
