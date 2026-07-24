@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="Megacable TV Argentina", TV PUBLICA HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"dd7e765b5a3749e78209c70ad361254d":"932c47485db98e3b42369ff7a18ee66e","fa127109c56245f3ac62bde681a13cb7":"932c47485db98e3b42369ff7a18ee66e","eaa5861be384426f9acdc9383f81aa73":"932c47485db98e3b42369ff7a18ee66e"}
-https://megatvorigin01-ccdia.megacable.com.ar/content/live/TV_Publica_HD/master.mpd
