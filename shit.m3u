@@ -1,0 +1,6 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"08c16565499eed7c6cdf0d918242750a":"0f8d9324044fd696d13719dd7937c1ef","7d6cc00f4fba366e7a5317268fe4926f":"d67fcddaa76899ffbee6484add5a3f2c","2810169c0e6b4881c8a4322573066573":"1e8744fc7ae2c0ece184b37c9bb4d210","4bf2701b3aea19b436914173070ee6b9":"78e127c321c4d4fa2289b025330c09dd"}
+#EXTINF:-1 group-title="DirecTV USA",FOX (WJW)
+https://dfwlive-v2-c3p4-os.live.cflare.dtvcdn.com/Content/HLS.cps/Live/channel(WJW-2974.dfw.720)/index.m3u8
