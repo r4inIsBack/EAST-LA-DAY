@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 type="vod" tvg-name="ATM NEWS" group-title="Video Rola", ATM NEWS 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"00168e1501a04642996f88b224707903":"16134514f0a8e32c3e6dfe019da955fd"}
-https://relayproxy06.sling.com/relay-proxy/aHR0cDovL2xvY2FsaG9zdDo1MjUyL2F1c3Rpbg==/26789/dash/dash.mpd
