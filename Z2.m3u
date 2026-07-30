@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 type="vod" tvg-name="ATM NEWS" group-title="Video Rola", ATM NEWS 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"33807947ac3b41bca8f1dfde36faa693:219baabcdb86945f1f783145e6303db7"}
-https://10-0-0-47-ip-cmd.dishboxes.com:5101/austin/52624/dash/dash.mpd
