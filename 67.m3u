@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 group-title="Spectrum USA", A&E HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apis-drm.spectrum.net/drm/licenseServer/widevine/v2?contentType=LINEAR
+#EXTVLCOPT:http-origin=https://watch.spectrum.net
+#EXTVLCOPT:http-referrer=https://watch.spectrum.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://linear-novi.stvacdn.spectrum.com//LIVE/5261/bpk-tv/21691/drm/manifest.mpd
+#EXTINF:-1 group-title="Spectrum USA", A&E HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apis-drm.spectrum.net/drm/licenseServer/widevine/v2
+#EXTVLCOPT:http-origin=https://watch.spectrum.net
+#EXTVLCOPT:http-referrer=https://watch.spectrum.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://linear-novi.stvacdn.spectrum.com//LIVE/5261/bpk-tv/21691/drm/manifest.mpd
+#EXTINF:-1 group-title="Spectrum USA", A&E HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apis-drm.spectrum.net/drm/licenseServer/widevine/v2?contentType=LINEAR&streamSessionId=202608090643V-755f0e35-e2cd-4a08-898a-b4f1333b8d29%7C19fe8a73f3f%700
+#EXTVLCOPT:http-origin=https://watch.spectrum.net
+#EXTVLCOPT:http-referrer=https://watch.spectrum.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://linear-novi.stvacdn.spectrum.com//LIVE/5261/bpk-tv/21691/drm/manifest.mpd
