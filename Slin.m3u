@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sling TV", Sling Starlink Info
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy
+#EXTINF:-1 group-title="Sling TV", Sling Starlink Info
 https://p-dynaman.movetv.com/manifest/1154/widevine/master.m3u8?account_status=expired&ad_tracking_allowed=true&billing_zip=90210&brand=sling&device_model=Chrome&device_name=browser&location_zip=38122&os_name=Windows&os_version=10&qvt=https%3A//cbd46b77.cdn.cms.movetv.com/playermetadata/sling/v1/api/channels/02c508937513505e96c81a490b34591e/schedule/now/playback_info.qvt&subscriber_id=4f3a0888-7778-11ea-bd30-1299f9c286b7&support_mode=false&profile_type=admin&playback_delay=88&plan_type=monthly&client_session_id=6ed5158a-242b-465e-ecb7-fcf72f4295c0&dma=640
