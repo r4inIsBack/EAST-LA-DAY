@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="IRIS", STAR CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"72e5477e7584b9ae6a9e33ce8f8260c4":"e5066cc8c83b42c7a5854be92e6163e8"}
+#EXTVLCOPT:http-origin=https://iris.mts.rs
+#EXTVLCOPT:http-referrer=https://iris.mts.rs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://originrrs.iris.mts.rs:443/PLTV/88888888/224/3221228479/3221228479.mpd?zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=38101&accountinfo=q4GpdqsY%2BZoFyn6nomp2%2F%2FfuUznk77iScN8s5n0bPJFMbHgVd%2FgWzI%2BEIiVuj7K%2B7809HtN55iVxkCgHaJtzEWoqd%2FdFgRNFOdkpVfrfP%2BnmZkt3XEElfXMHa%2FcAGYctOC4BEvy3xxYA3HZ12tyW1gS3LUITDExkKYmUoahSP4c%3D0fb9877946340ea4a0ccf82456a62bb9%3A20260828090751%3AUTC%2C507532443%2C76.107.156.227%2C20260828090751%2Curn%3AHuawei%3AliveTV%3AXTV100007218%2C507532443%2C-1%2C0%2C1%2C%2C%2C2%2C1100004146%2C%2C%2C2%2C10000504032848%2C0%2C10500007700129%2Ccc5a985c-aa2b-47c3-8c2e-e80c44455f80%2C%2C%2C3%2C1%2C170036632%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAE2OQQ6CMBREb9NlQ1GgLLrCmJgYNAHdmk_7qYRCsQUSby8QFi5n8t5kRgcSLycRx4lUaRLHKkiOPKpSHoZhtVTH-lABcuLxk1sREgnGNL3OrVq1Z5G9WEAZYzRKKeekXPfOBrQINjSfugrdHhavQDc3EoXyNZ3BU9DaoYaxsT29G_g-nNkRguX-rZ-MIeMaSvDtUpA3-Mx2AzhUV6s3TtRgPJIBZAsac-jwz7s5tZz4AeoPHgjsAAAA
