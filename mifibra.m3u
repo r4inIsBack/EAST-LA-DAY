@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 group-title="MiFibra Peru", LIGA1MAX
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.srv.mifibra-pe.i.mtvreg.com/license/moderntv/widevine
+https://r4instreams.alwaysdata.net/mifibra/l1max.php
+#EXTM3U
+#EXTINF:-1 group-title="InterGO Venezuela", A La Cocina HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.srv.netuno.i.mtvreg.com/license/moderntv/widevine
+https://r4instreams.alwaysdata.net/intergo/alacocina.php
