@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="VIX" group-logo="https://r4inisback.github.io/tweb/logos/vix.png" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandamax-mx.png",Bandamax
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"01e94664c4d12d7db8408d8b332f598f":"f1ab50d3217fe54a4a1aa13e980272fc","00e94664c4d12d7db8408d8b332f598f":"da71d2436d6733df5398b7cb564e699d","02e94664c4d12d7db8408d8b332f598f":"e16f0aec8df5e2ccc26531f5c0585e17","5fe94664c4d12d7db8408d8b332f598f:f1ab50d3217fe54a4a1aa13e980272fc"}
-https://tkx.mp.lura.live/rest/v2/mcp/video/adstyvzjNlykqAkD/master.m3u8?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
