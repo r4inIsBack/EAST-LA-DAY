@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 group-title="PEZ",Totalmusic
+#EXTVLCOPT:http-origin=https://rule34.xxx
+#EXTVLCOPT:http-referrer=https://rule34.xxx/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8?r64
